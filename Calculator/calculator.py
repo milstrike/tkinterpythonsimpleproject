@@ -119,6 +119,7 @@ def operationSubtraction():
 
 master = tk.Tk()
 master.title("Simple Calc")
+#change the geometry here
 master.geometry("193x150")
 
 inputAngka = tk.Entry(master, justify="right")
